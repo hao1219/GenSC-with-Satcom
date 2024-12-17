@@ -1,0 +1,8 @@
+pandas
+numpy
+tqdm
+matplotlib
+torch
+w3lib
+nltk
+sentence-transformers
